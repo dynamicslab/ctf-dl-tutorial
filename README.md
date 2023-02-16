@@ -20,12 +20,16 @@ This repository contains codes for the CTF Workshop tutorial of the AI Intstitut
 
 ### Part 2: Recurrent Neural Networks - 1:00PM-2:30PM (Jan Williams)
 - Prevalence of sequential data in dynamical system applications
-- Recurrent neural networks for time series and forecasting
+
+- Recurrent neural network architectures
+
 - Mathematical formulation of generic RNNs (with focus on RNN's)
-- Barebones implementation of vanilla RNN for forecasting periodic univariate data 
-- Mathematical formulation of LSTMs 
-- Time delay embeddings using recurrent layers and Lorenz, $x_{i+1}= f(x_i, x_{i-1}, ... x_{i-k})$.
-- Reconstruct and/or forecast sea-surface temperature from limited sensor measurements using LSTMs
+
+- Barebones implementation of vanilla RNN for forecasting periodic univariate data
+
+- Mathematical formulation of LSTMs
+    - Time delay embeddings using recurrent layers and Lorenz, $x_{i+1}= f(x_i, x_{i-1}, ... x_{i-k})$.
+    - Reconstruct and/or forecast sea-surface temperature from limited sensor measurements using LSTMs
 
 
 ### Part 3: Pruning - 3:00PM-4:30PM (Olivia Thomas)
