@@ -5,9 +5,9 @@ This repository contains codes for the CTF Workshop tutorial of the AI Intstitut
 # Outline
 
 ### Part 1: Introduction to Deep Learning - 9:00-11:00AM (Joe Bakarji)
-- Introduction to Deep Learning.
-- Time-delay embedding and Takens' theorem.
-- Introduction to PyTorch.
+- Introduction to Deep Learning
+- Time-delay embedding and Takens' theorem
+- Introduction to PyTorch
 - The Lorenz system
     - The Hankel matrix
     - Approximating Takens' diffeomorphism
@@ -26,7 +26,7 @@ This repository contains codes for the CTF Workshop tutorial of the AI Intstitut
 - Barebones implementation of vanilla RNN for forecasting periodic univariate data 
 - Mathematical formulation of LSTMs 
 - Time delay embeddings using recurrent layers and Lorenz, $x_{i+1}= f(x_i, x_{i-1}, ... x_{i-k})$.
-- Reconstruct and/or forecast sea-surface temperature from limited sensor measurements using LSTMs (Hackathon?)
+- Reconstruct and/or forecast sea-surface temperature from limited sensor measurements using LSTMs
 
 
 ### Part 3: Pruning - 3:00PM-4:30PM (Olivia Thomas)
