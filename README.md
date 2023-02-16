@@ -13,7 +13,6 @@ This repository contains codes for the CTF Workshop tutorial of the AI Intstitut
     - Approximating Takens' diffeomorphism
     - Autoencoders
     - Linear and nonlinear dominant time-modes
-
 - Practice Examples:
     - Surrogate model of the diffusion equation solution: u(x, t)
     - Fit the model $\mathbf x_{i+1}=\mathbf f(\mathbf x_i)$ with a fully connected network.
